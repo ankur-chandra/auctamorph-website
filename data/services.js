@@ -184,6 +184,7 @@ Automate from **procure‑to‑pay** to **order‑to‑cash** for real‑time vi
 
 ## Why AuctaMorph
 We optimize for ground truth on the warehouse floor—not just pretty reports.
+
 `
   },
   {
