@@ -187,7 +187,7 @@ We optimize for ground truth on the warehouse floor—not just pretty reports.
 `
   },
 
-  {
+  ,{
     slug: "data-analytics-solutions",
     title: "Data Analytics Solutions",
     summary: "Unlock actionable insights with Tableau and Databricks for enterprise-scale analytics.",
